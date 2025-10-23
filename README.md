@@ -1,2 +1,3 @@
 # my-portfolio
 A new version of my portfolio with Tailwind CSS.
+But with problems that i haven't figured out...
